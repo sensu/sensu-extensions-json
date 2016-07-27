@@ -4,6 +4,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachangelog.com/).
 
+## [1.0.0] - 2016-07-27
+
+### Fixes
+
+- Minor spec description edit.
+
 ## 0.0.1 - 2016-07-27
 
 ### Added
